@@ -1,0 +1,180 @@
+{
+  "project": {
+    "id": "",
+    "name": "flagpole",
+    "path": "tests",
+    "source": "src",
+    "output": "out",
+    "images": "images",
+    "cache": "cache",
+    "schemas": "schemas",
+    "reports": "reports"
+  },
+  "environments": {
+    "local": {
+      "name": "local",
+      "defaultDomain": "http://localhost:8000"
+    },
+    "dev": {
+      "name": "dev",
+      "defaultDomain": "http://localhost:8000"
+    }
+  },
+  "suites": {
+    "api/itunes": {
+      "id": "",
+      "name": "api/itunes",
+      "tags": []
+    },
+    "chaining-assertions": {
+      "id": "",
+      "name": "chaining-assertions",
+      "tags": []
+    },
+    "cookies": {
+      "id": "",
+      "name": "cookies",
+      "tags": []
+    },
+    "debug": {
+      "id": "",
+      "name": "debug",
+      "tags": []
+    },
+    "error": {
+      "id": "",
+      "name": "error",
+      "tags": []
+    },
+    "html/google": {
+      "id": "",
+      "name": "html/google",
+      "tags": []
+    },
+    "html/google2": {
+      "id": "",
+      "name": "html/google2",
+      "tags": []
+    },
+    "html/stackoverflow": {
+      "id": "",
+      "name": "html/stackoverflow",
+      "tags": []
+    },
+    "maxListener": {
+      "id": "",
+      "name": "maxListener",
+      "tags": []
+    },
+    "schema": {
+      "id": "",
+      "name": "schema",
+      "tags": []
+    },
+    "simple": {
+      "id": "",
+      "name": "simple",
+      "tags": []
+    },
+    "some-every-none": {
+      "id": "",
+      "name": "some-every-none",
+      "tags": []
+    },
+    "template": {
+      "id": "",
+      "name": "template",
+      "tags": []
+    },
+    "testcallbacks": {
+      "id": "",
+      "name": "testcallbacks",
+      "tags": []
+    },
+    "urltest": {
+      "id": "",
+      "name": "urltest",
+      "tags": []
+    },
+    "visual": {
+      "id": "",
+      "name": "visual",
+      "tags": []
+    },
+    "wait": {
+      "id": "",
+      "name": "wait",
+      "tags": []
+    },
+    "waitForHavingText": {
+      "id": "",
+      "name": "waitForHavingText",
+      "tags": []
+    },
+    "waitForVisible": {
+      "id": "",
+      "name": "waitForVisible",
+      "tags": []
+    },
+    "xml": {
+      "id": "",
+      "name": "xml",
+      "tags": []
+    },
+    "equality": {
+      "id": "",
+      "name": "equality",
+      "tags": []
+    },
+    "atom": {
+      "id": "",
+      "name": "atom",
+      "tags": []
+    },
+    "every": {
+      "id": "",
+      "name": "every",
+      "tags": []
+    },
+    "soap": {
+      "id": "",
+      "name": "soap",
+      "tags": []
+    },
+    "finally": {
+      "id": "",
+      "name": "finally",
+      "tags": []
+    },
+    "image": {
+      "id": "",
+      "name": "image",
+      "tags": []
+    },
+    "todo": {
+      "id": "",
+      "name": "todo",
+      "tags": []
+    },
+    "currentUrl": {
+      "id": "",
+      "name": "currentUrl",
+      "tags": []
+    },
+    "browser/google": {
+      "id": "",
+      "name": "browser/google",
+      "tags": []
+    },
+    "browser/ubereats": {
+      "id": "",
+      "name": "browser/ubereats",
+      "tags": []
+    },
+    "hls": {
+      "id": "",
+      "name": "hls",
+      "tags": []
+    }
+  }
+}
